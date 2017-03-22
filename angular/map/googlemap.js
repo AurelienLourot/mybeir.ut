@@ -136,11 +136,11 @@ define(['angular/map/declutterer', 'angular/map/device'], function(declutterer, 
     };
 
     // Private constants:
-    var mapCenter = { // Berlin TV Tower
-      lat: 52.520815,
-      lng: 13.409419,
+    var mapCenter = { // Downtown Beirut
+      lat: 33.896746,
+      lng: 35.504532,
     };
-    var defaultZoomLevel = 12;
+    var defaultZoomLevel = 13;
 
     return Map;
   })();
