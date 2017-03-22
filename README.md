@@ -1,6 +1,8 @@
-# myberl.in [![Build Status](https://travis-ci.org/AurelienLourot/myberl.in.svg?branch=master)](https://travis-ci.org/AurelienLourot/myberl.in)
+# mybeir.ut [![Build Status](https://travis-ci.org/AurelienLourot/mybeir.ut.svg?branch=master)](https://travis-ci.org/AurelienLourot/mybeir.ut)
 
-Source of https://myberl.in . An interactive map of bars, clubs and restaurants in Berlin.
+Source of https://beirut.myberl.in . An interactive map of bars, clubs and restaurants in Beirut.
+
+Fork of [myberl.in](https://github.com/AurelienLourot/myberl.in).
 
 ## Serve locally
 
