@@ -94,7 +94,7 @@ $ npm run-script loadsite
 In addition to sending any error to Sentry, `npm` will terminate with a non-null exit value if:
 
 * the app's initialization times out, or
-* [myberl.in](https://myberl.in) is unreachable.
+* [beirut.myberl.in](https://beirut.myberl.in) is unreachable.
 
 ## Documentation
 

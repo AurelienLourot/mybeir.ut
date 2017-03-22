@@ -18,7 +18,7 @@ page.onConsoleMessage = function(msg) {
   }
 };
 
-page.open('https://myberl.in', function(status) {
+page.open('https://beirut.myberl.in', function(status) {
   if (status != 'success') {
     console.error('FAILED: unreachable?');
     phantom.exit(2);
