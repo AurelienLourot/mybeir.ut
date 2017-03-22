@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>My Beirut</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name><![CDATA[Coup d'état ]]></name>
+        <description>#bar #café #outdoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5165847,33.8960983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Urbanista</name>
+        <description>#café #restaurant #bar #indoor #outdoor #internet</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5135577999999,33.8950653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Internazionale</name>
+        <description>#bar #indoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5252117,33.8969382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seza Bistro Arménien</name>
+        <description>#restaurant #indoor #outdoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5317961000001,33.895925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tawlet</name>
+        <description>#restaurant #café #indoor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5321160999999,33.8971163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kahwet Leila</name>
+        <description>#restaurant #indoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5118899,33.8950592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jammal Restaurant</name>
+        <description>#restaurant #outdoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.6580670000001,34.237806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plan BEYt Garden Café</name>
+        <description>#café #outdoor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5279472,33.8972541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Dar Bistro & Books]]></name>
+        <description>#café #restaurant #outdoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.4880740999999,33.8967763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sole Insight</name>
+        <description>#café #outdoor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5273624,33.8972736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Papercup Bookstore & Coffeeshop]]></name>
+        <description>#café #indoor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5256388,33.8979329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Makan</name>
+        <description>#restaurant #outdoor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5302555000001,33.8965461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mezyan</name>
+        <description>#restaurant #bar #inside #outdoor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.4840395,33.8955174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barbar </name>
+        <description>#restaurant</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.4832617,33.8943214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Radio Beirut</name>
+        <description>#bar #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5256311000001,33.8971066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Demo Bar</name>
+        <description>#bar #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5114252999999,33.8941972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>onomatopoeia | THE MUSIC HUB</name>
+        <description>#bar #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5251236,33.8841609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corniche</name>
+        <description>#sightseeing #outdoor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.4799144,33.9028289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mohammed Al-Amin Mosque</name>
+        <description>#sightseeing #outdoor #indoor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5060794,33.8952064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Landmark of the Resistance (Hisbollah Museum)</name>
+        <description>#sightseeing #outdoor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5254904,33.4573284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Babel</name>
+        <description>#restaurant #outdoor #indoor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.4986645,33.9036206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Happy Prince</name>
+        <description>#bar #indoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5251410999999,33.8970769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bartartine</name>
+        <description>#restaurant #bar #indoor #outdoor #alcohol #internet</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5250511,33.8967056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Grand Factory</name>
+        <description>#club #indoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5421311,33.8998948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Empire Metropolis Sofil</name>
+        <description>#cinema</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.517712,33.892532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caribou Coffee</name>
+        <description>#café #indoor #outdoor #internet</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.518017,33.8867819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Al Falamanki</name>
+        <description>#restaurant #outdoor #indoor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5083991,33.8873183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Clara</name>
+        <description>#restaurant #bar #café #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5303804,33.8958048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>London Bar</name>
+        <description>#bar #outdoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5243657999999,33.8963597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Café Em Nazih</name>
+        <description>#restaurant #outdoor #indoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5165488,33.8961671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bay Rock</name>
+        <description>#restaurant #bar #café #outdoor #indoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.4716627,33.8904251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paul</name>
+        <description>#café #restaurant #indoor #outdoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5094279,33.895186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Oliver's Kitchen and coffee shop]]></name>
+        <description>#restaurant #café #indoor #alcohol #internet</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5184488,33.8949919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>De Prague</name>
+        <description>#bar #café #indoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.4835865,33.8961426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mayrig Restaurant</name>
+        <description>#restaurant #bar #indoor #outdoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.518594,33.895719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[L' ancre]]></name>
+        <description>#restaurant #outdoor #indoor #alcohol #internet</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.6359339000001,34.0129103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Samakati</name>
+        <description>#restaurant #outdoor </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5283991,33.8972753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trainstation</name>
+        <description>#club #bar #outdoor #indoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5279393000001,33.8976882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Enab Restaurant</name>
+        <description>#restaurant #indoor #outdoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5276927,33.8973275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Treehousebeirut</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            35.5340742999999,33.8961259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frida</name>
+        <description>#restaurant #indoor #outdoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.515413,33.890029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bread Republic</name>
+        <description>#bar #café #indoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5135005,33.8900282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
