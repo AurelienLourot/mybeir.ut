@@ -201,7 +201,7 @@
       </Placemark>
       <Placemark>
         <name>Mezyan</name>
-        <description>#restaurant #bar #inside #outdoor</description>
+        <description>#restaurant #bar #indoor #outdoor</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
