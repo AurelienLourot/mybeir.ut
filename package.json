@@ -1,9 +1,9 @@
 {
-  "name": "myberl.in",
+  "name": "mybeir.ut",
   "license": "Unlicense",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AurelienLourot/myberl.in.git"
+    "url": "https://github.com/AurelienLourot/mybeir.ut.git"
   },
   "_note": [
     "We let 'npm test' run phantomjs against the production app instead of localhost because we",

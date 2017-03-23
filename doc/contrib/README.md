@@ -8,9 +8,9 @@
 
 ## 2. Send me the link...
 
-... by [creating an issue](https://github.com/AurelienLourot/myberl.in/issues).
+... by [creating an issue](https://github.com/AurelienLourot/mybeir.ut/issues).
 
-Once I've linked your map to [myberl.in](https://myberl.in/), any place you'll add in your map will
+Once I've linked your map to [mybeir.ut](https://beirut.myberl.in/), any place you'll add in your map will
 immediately show up there.
 
 ## 3. Add some places...
