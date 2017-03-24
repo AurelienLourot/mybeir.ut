@@ -500,7 +500,10 @@ define(['angular/map/declutterer', 'angular/map/device'], function(declutterer, 
       {
         name: "Franzi's My Beirut map",
         id: '12CzQm8VmwpifzQM0FjKL6q8Sx20',
-        tags: ['franzi', 'great'],
+        tags: {
+          prepend: false,
+          tags: ['franzi', 'great'],
+        },
       },
     ],
   };
