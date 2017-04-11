@@ -528,6 +528,26 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Stairway</name>
+        <description>#bar #outdoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.525384,33.8970766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lock Stock</name>
+        <description>#bar #indoor #outdoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.525501,33.8970501,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
