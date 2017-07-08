@@ -63,6 +63,14 @@
       "advanced": false,
       "descriptive": true,
       "initialState": false
+    },
+    {
+      "name": "beach",
+      "desc": "<img class='tag-desc' src='assets/pics/thirdparty/1493-wht-blank_maps_white.png' />",
+      "icon": "assets/pics/thirdparty/1493-wht-blank_maps",
+      "advanced": true,
+      "descriptive": true,
+      "initialState": false
     }
   ],
   [
