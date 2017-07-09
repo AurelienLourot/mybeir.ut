@@ -39,53 +39,11 @@
         <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="icon-1899-0288D1-nodesc-normal">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1899-0288D1-nodesc-highlight">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-1899-0288D1-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Folder>
       <name>Untitled layer</name>
       <Placemark>
-        <name><![CDATA[Coup d'état ]]></name>
-        <description>#bar #café #outdoor #alcohol</description>
+        <name><![CDATA[Coup d'état rooftop]]></name>
+        <description>#bar #café #outdoor #restaurant #alcohol #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -114,8 +72,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Seza Bistro Arménien</name>
-        <description>#restaurant #indoor #outdoor #alcohol</description>
+        <name>Seza</name>
+        <description>#restaurant #indoor #outdoor #alcohol #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -135,7 +93,7 @@
       </Placemark>
       <Placemark>
         <name>Kahwet Leila</name>
-        <description>#restaurant #indoor #alcohol</description>
+        <description>#restaurant #café #indoor #alcohol #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -144,8 +102,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Jammal Restaurant</name>
-        <description>#restaurant #outdoor #alcohol</description>
+        <name>Jammal</name>
+        <description>#restaurant #outdoor #alcohol #beach</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -154,7 +112,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Plan BEYt Garden Café</name>
+        <name>Plan BEY Garden Café</name>
         <description>#café #outdoor</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
@@ -175,7 +133,7 @@
       </Placemark>
       <Placemark>
         <name>Sole Insight</name>
-        <description>#café #outdoor</description>
+        <description>#café #outdoor #alcohol #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -184,7 +142,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Papercup Bookstore & Coffeeshop]]></name>
+        <name>Papercup Bookstore</name>
         <description>#café #indoor</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
@@ -205,7 +163,7 @@
       </Placemark>
       <Placemark>
         <name>Mezyan</name>
-        <description>#restaurant #bar #indoor #outdoor</description>
+        <description>#restaurant #bar #indoor #outdoor #alcohol</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -214,8 +172,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Barbar </name>
-        <description>#restaurant</description>
+        <name>Barbar</name>
+        <description>#restaurant #outdoor</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -225,7 +183,7 @@
       </Placemark>
       <Placemark>
         <name>Radio Beirut</name>
-        <description>#bar #alcohol</description>
+        <description>#bar #alcohol #indoor #outdoor #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -235,7 +193,7 @@
       </Placemark>
       <Placemark>
         <name>Demo Bar</name>
-        <description>#bar #alcohol</description>
+        <description>#bar #alcohol #indoor #outdoor #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -244,8 +202,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>onomatopoeia | THE MUSIC HUB</name>
-        <description>#bar #alcohol</description>
+        <name>onomatopoeia</name>
+        <description>#bar #alcohol #indoor #outdoor</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -255,7 +213,7 @@
       </Placemark>
       <Placemark>
         <name>Corniche</name>
-        <description>#sightseeing #outdoor</description>
+        <description>#sightseeing #outdoor #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -264,8 +222,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Mohammed Al-Amin Mosque</name>
-        <description>#sightseeing #outdoor #indoor</description>
+        <name>Al-Amin Mosque</name>
+        <description>#sightseeing #outdoor #indoor #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -285,7 +243,7 @@
       </Placemark>
       <Placemark>
         <name>Babel</name>
-        <description>#restaurant #outdoor #indoor</description>
+        <description>#restaurant #outdoor #indoor #alcohol</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -305,7 +263,7 @@
       </Placemark>
       <Placemark>
         <name>Bartartine</name>
-        <description>#restaurant #bar #indoor #outdoor #alcohol #internet</description>
+        <description>#restaurant #bar #indoor #outdoor #alcohol #internet #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -315,7 +273,7 @@
       </Placemark>
       <Placemark>
         <name>The Grand Factory</name>
-        <description>#club #indoor #alcohol</description>
+        <description>#club #indoor #alcohol #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -325,7 +283,7 @@
       </Placemark>
       <Placemark>
         <name>Empire Metropolis Sofil</name>
-        <description>#cinema</description>
+        <description>#cinema #indoor</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -355,7 +313,7 @@
       </Placemark>
       <Placemark>
         <name>Villa Clara</name>
-        <description>#restaurant #bar #café #alcohol</description>
+        <description>#restaurant #bar #café #alcohol #indoor</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -374,8 +332,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Café Em Nazih</name>
-        <description>#restaurant #outdoor #indoor #alcohol</description>
+        <name>Em Nazih</name>
+        <description>#restaurant #outdoor #indoor #alcohol #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -395,7 +353,7 @@
       </Placemark>
       <Placemark>
         <name>Paul</name>
-        <description>#café #restaurant #indoor #outdoor #alcohol</description>
+        <description>#café #restaurant #indoor #outdoor #alcohol #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -404,8 +362,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Oliver's Kitchen and coffee shop]]></name>
-        <description>#restaurant #café #indoor #alcohol #internet</description>
+        <name><![CDATA[Oliver's Kitchen]]></name>
+        <description>#restaurant #café #indoor #alcohol #internet #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -424,8 +382,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Mayrig Restaurant</name>
-        <description>#restaurant #bar #indoor #outdoor #alcohol</description>
+        <name>Mayrig</name>
+        <description>#restaurant #bar #indoor #outdoor #alcohol #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -434,7 +392,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[L' ancre]]></name>
+        <name><![CDATA[L'ancre]]></name>
         <description>#restaurant #outdoor #indoor #alcohol #internet</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
@@ -464,8 +422,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Enab Restaurant</name>
-        <description>#restaurant #indoor #outdoor #alcohol</description>
+        <name>Enab</name>
+        <description>#restaurant #indoor #outdoor #alcohol #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -475,7 +433,8 @@
       </Placemark>
       <Placemark>
         <name>Treehousebeirut</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <description>#bar #alcohol #indoor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
             35.5340742999999,33.8961259,0
@@ -484,7 +443,7 @@
       </Placemark>
       <Placemark>
         <name>Frida</name>
-        <description>#restaurant #indoor #outdoor #alcohol</description>
+        <description>#restaurant #indoor #outdoor #alcohol #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -514,7 +473,7 @@
       </Placemark>
       <Placemark>
         <name>Ginette</name>
-        <description>#café #indoor #outdoor</description>
+        <description>#café #restaurant #indoor #outdoor</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -524,7 +483,7 @@
       </Placemark>
       <Placemark>
         <name>Cyrano</name>
-        <description>#bar #café #outdoor #indoor #alcohol</description>
+        <description>#bar #café #outdoor #indoor #alcohol #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -544,11 +503,71 @@
       </Placemark>
       <Placemark>
         <name>Lock Stock</name>
-        <description>#bar #indoor #outdoor #alcohol</description>
+        <description>#bar #indoor #outdoor #alcohol #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
             35.525501,33.8970501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pool d'état]]></name>
+        <description>#outdoor #restaurant #bar #pool #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.4863548999999,33.8958644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coral Beach</name>
+        <description>#outdoor #bar #restaurant #beach #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.4822598000001,33.8661752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lazy B Beach</name>
+        <description>#outdoor #restaurant #bar #beach #pool #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.420168,33.682215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Natural Bridge</name>
+        <description>#outdoor #sightseeing</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.8248228,33.9990757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jeita Grotto</name>
+        <description>#sightseeing #outdoor #indoor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.640858,33.9436631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abu Philip</name>
+        <description>#outdoor #beach #restaurant #bar #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.650908,34.1041613,0
           </coordinates>
         </Point>
       </Placemark>

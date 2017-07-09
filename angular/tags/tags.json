@@ -49,6 +49,14 @@
       "initialState": false
     },
     {
+      "name": "cinema",
+      "desc": "<img class='tag-desc' src='assets/pics/thirdparty/1497-wht-diamond-blank_white.png' />",
+      "icon": "assets/pics/thirdparty/1497-wht-diamond-blank",
+      "advanced": true,
+      "descriptive": true,
+      "initialState": false
+    },
+    {
       "name": "restaurant",
       "desc": "<img class='tag-desc' src='assets/pics/thirdparty/1496-wht-square-blank_white.png' />",
       "icon": "assets/pics/thirdparty/1496-wht-square-blank",
@@ -71,6 +79,14 @@
       "advanced": true,
       "descriptive": true,
       "initialState": false
+    },
+    {
+      "name": "pool",
+      "desc": "<img class='tag-desc' src='assets/pics/thirdparty/1493-wht-blank_maps_white.png' />",
+      "icon": "assets/pics/thirdparty/1493-wht-blank_maps",
+      "advanced": true,
+      "descriptive": true,
+      "initialState": false
     }
   ],
   [
@@ -88,7 +104,7 @@
       "color": "cyan",
       "advanced": false,
       "descriptive": true,
-      "initialState": false
+      "initialState": true
     }
   ],
   [
