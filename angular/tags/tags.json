@@ -33,6 +33,14 @@
       "initialState": true
     },
     {
+      "name": "icecream",
+      "desc": "<img class='tag-desc' src='assets/pics/thirdparty/1494-wht-circle-blank_white.png' />",
+      "icon": "assets/pics/thirdparty/1494-wht-circle-blank",
+      "advanced": false,
+      "descriptive": true,
+      "initialState": true
+    },
+    {
       "name": "workplace",
       "desc": "<img class='tag-desc' src='assets/pics/thirdparty/1495-wht-star-blank_white.png' />",
       "icon": "assets/pics/thirdparty/1495-wht-star-blank",

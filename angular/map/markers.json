@@ -24,5 +24,14 @@
       "lng": 35.525130
     },
     "tags": ["bar", "indoor", "good", "aure", "franzi"]
+  },
+  {
+    "title": "Orso Bianco",
+    "comment": "Ice cream to take away",
+    "position": {
+      "lat": 33.891429,
+      "lng": 35.521026
+    },
+    "tags": ["icecream", "outdoor", "indoor", "great", "aure", "franzi"]
   }
 ]
