@@ -1,2 +1,11 @@
 [
+  {
+    "title": "Succo",
+    "comment": "Fresh juices to take away",
+    "position": {
+      "lat": 33.895653,
+      "lng": 35.516156
+    },
+    "tags": ["juicery", "outdoor", "indoor", "great", "aure", "franzi"]
+  }
 ]

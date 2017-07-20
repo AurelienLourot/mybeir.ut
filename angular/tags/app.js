@@ -248,8 +248,8 @@ define(function() {
 
   var dbg_checkboxChanged = (function() {
     // Secret dialog will pop up after the following sequence is clicked:
-    var seq = ['bar', 'café', 'club', 'restaurant', 'brunch',
-               'bar', 'café', 'club', 'restaurant', 'brunch'];
+    var seq = ['bar', 'café', 'juicery', 'club', 'restaurant',
+               'bar', 'café', 'juicery', 'club', 'restaurant'];
     var lastClicked = -1;
 
     return function(checkboxName) {
