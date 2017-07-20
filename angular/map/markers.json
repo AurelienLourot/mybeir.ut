@@ -7,5 +7,14 @@
       "lng": 35.516156
     },
     "tags": ["juicery", "outdoor", "indoor", "great", "aure", "franzi"]
+  },
+  {
+    "title": "5 a day",
+    "comment": "Fresh juices to take away",
+    "position": {
+      "lat": 33.894486,
+      "lng": 35.524515
+    },
+    "tags": ["juicery", "outdoor", "indoor", "great", "aure", "franzi"]
   }
 ]
