@@ -240,6 +240,15 @@
     "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
   },
   {
+    "title": "Ixsir",
+    "comment": "Vineyard",
+    "position": {
+      "lat": 34.236526,
+      "lng": 35.707605
+    },
+    "tags": ["restaurant", "café", "alcohol", "outdoor", "indoor", "great", "aure", "franzi"]
+  },
+  {
     "title": "Chez Maguy",
     "comment": "Lebanese food",
     "position": {
@@ -247,5 +256,14 @@
       "lng": 35.656414
     },
     "tags": ["restaurant", "alcohol", "outdoor", "indoor", "great", "aure", "franzi"]
+  },
+  {
+    "title": "Kefraya",
+    "comment": "Vineyard",
+    "position": {
+      "lat": 33.656622,
+      "lng": 35.747304
+    },
+    "tags": ["restaurant", "café", "alcohol", "outdoor", "indoor", "great", "aure", "franzi"]
   }
 ]
