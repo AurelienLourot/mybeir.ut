@@ -163,5 +163,16 @@
       "lng": 35.503918
     },
     "tags": ["sightseeing", "café", "indoor", "outdoor", "good", "aure", "franzi"]
+  },
+  {
+    "title": "Bartartine",
+    "comment": "French food",
+    "ignore_errors": true,
+    "website": "http://www.bar-tartine.com/",
+    "position": {
+      "lat": 33.9005,
+      "lng": 35.498379
+    },
+    "tags": ["restaurant", "alcohol", "internet", "outdoor", "great", "aure", "franzi"]
   }
 ]
