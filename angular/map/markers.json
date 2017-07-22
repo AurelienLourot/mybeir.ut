@@ -53,5 +53,14 @@
       "lng": 35.471275
     },
     "tags": ["restaurant", "alcohol", "indoor", "outdoor", "good", "aure"]
+  },
+  {
+    "title": "Rouché Rocks",
+    "comment": "a.k.a Pigeon Rocks",
+    "position": {
+      "lat": 33.889754,
+      "lng": 35.470381
+    },
+    "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
   }
 ]
