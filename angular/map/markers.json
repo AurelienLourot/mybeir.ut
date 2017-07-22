@@ -35,9 +35,9 @@
     "tags": ["icecream", "outdoor", "indoor", "great", "aure", "franzi"]
   },
   {
-    "title": "Fresh juices",
-    "_reason": "Otherwise it will match the Lamb House Restaurant:",
-    "place_id": "NONE",
+    "title": "Al Rifai",
+    "ignore_errors": true,
+    "website": "https://www.zomato.com/beirut/al-rifai-juice-manara",
     "position": {
       "lat": 33.895091,
       "lng": 35.470081
