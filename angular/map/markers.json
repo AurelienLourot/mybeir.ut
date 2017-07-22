@@ -97,5 +97,14 @@
       "lng": 35.517014
     },
     "tags": ["restaurant", "great", "indoor", "aure", "franzi"]
+  },
+  {
+    "title": "Sandwich w Noss",
+    "place_id": "ChIJyQSxjfcWHxURdnc9s5I6SWg",
+    "position": {
+      "lat": 33.895483,
+      "lng": 35.520405
+    },
+    "tags": ["restaurant", "great", "indoor", "outdoor", "aure", "franzi"]
   }
 ]
