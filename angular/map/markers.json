@@ -43,5 +43,15 @@
       "lng": 35.470081
     },
     "tags": ["juicery", "outdoor", "indoor", "good", "aure", "franzi"]
+  },
+  {
+    "title": "Falamanki",
+    "comment": "Lebanese food",
+    "place_id": "ChIJ0d4_IM4QHxURo6f_ADfI7qs",
+    "position": {
+      "lat": 33.891643,
+      "lng": 35.471275
+    },
+    "tags": ["restaurant", "alcohol", "indoor", "outdoor", "good", "aure"]
   }
 ]
