@@ -413,11 +413,11 @@
       </Placemark>
       <Placemark>
         <name>Trainstation</name>
-        <description>#club #bar #outdoor #indoor #alcohol</description>
+        <description>#club #bar #outdoor #indoor #alcohol #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
-            35.5279393000001,33.8976882,0
+            35.5284275,33.8979598,0
           </coordinates>
         </Point>
       </Placemark>
