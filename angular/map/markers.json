@@ -228,5 +228,14 @@
       "lng": 35.649718
     },
     "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
+  },
+  {
+    "title": "Chez Maguy",
+    "comment": "Lebanese food",
+    "position": {
+      "lat": 34.253365,
+      "lng": 35.656414
+    },
+    "tags": ["restaurant", "alcohol", "outdoor", "indoor", "great", "aure", "franzi"]
   }
 ]
