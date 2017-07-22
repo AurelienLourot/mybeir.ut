@@ -108,6 +108,15 @@
     "tags": ["restaurant", "great", "indoor", "outdoor", "aure", "franzi"]
   },
   {
+    "title": "Grand Serail",
+    "comment": "Prime Ministery",
+    "position": {
+      "lat": 33.896064,
+      "lng": 35.500966
+    },
+    "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
+  },
+  {
     "title": "Meshmosh",
     "comment": "Ho(s)tel's café",
     "position": {
