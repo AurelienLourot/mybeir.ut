@@ -165,6 +165,15 @@
     "tags": ["sightseeing", "café", "indoor", "outdoor", "good", "aure", "franzi"]
   },
   {
+    "title": "Antwork",
+    "place_id": "ChIJe-4pmNgWHxURcvmmCfPR5i0",
+    "position": {
+      "lat": 33.895049,
+      "lng": 35.493038
+    },
+    "tags": ["workplace", "internet", "indoor", "good", "other"]
+  },
+  {
     "title": "Bartartine",
     "comment": "French food",
     "ignore_errors": true,
