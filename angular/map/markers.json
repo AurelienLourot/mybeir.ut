@@ -222,6 +222,16 @@
     "tags": ["sightseeing", "outdoor", "good", "other"]
   },
   {
+    "title": "Cedars of God",
+    "comment": "Cedars forest",
+    "place_id": "ChIJ-4XdFq0FIhURG_A6PwPVfk8",
+    "position": {
+      "lat": 34.24388801,
+      "lng": 36.0489624
+    },
+    "tags": ["sightseeing", "outdoor", "good", "aure", "franzi"]
+  },
+  {
     "title": "Byblos",
     "position": {
       "lat": 34.121874,
