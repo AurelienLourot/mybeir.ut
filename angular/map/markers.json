@@ -315,5 +315,14 @@
       "lng": 35.531013
     },
     "tags": ["workplace", "indoor", "good", "other"]
+  },
+  {
+    "title": "Marinella",
+    "comment": "Also breakfast",
+    "position": {
+      "lat": 33.896739,
+      "lng": 35.524376
+    },
+    "tags": ["restaurant", "indoor", "good", "franzi"]
   }
 ]
