@@ -213,6 +213,15 @@
     "tags": ["workplace", "internet", "indoor", "good", "other"]
   },
   {
+    "title": "Mar Antonios Koshaya",
+    "comment": "Monastery",
+    "position": {
+      "lat": 34.284042,
+      "lng": 35.944915
+    },
+    "tags": ["sightseeing", "outdoor", "good", "other"]
+  },
+  {
     "title": "Byblos",
     "position": {
       "lat": 34.121874,
