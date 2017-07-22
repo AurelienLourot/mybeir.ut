@@ -146,6 +146,15 @@
     "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
   },
   {
+    "title": "Zaartar w Zeit",
+    "comment": "Lebanese food",
+    "position": {
+      "lat": 33.894934,
+      "lng": 35.512265
+    },
+    "tags": ["restaurant", "great", "indoor", "franzi"]
+  },
+  {
     "title": "Souks",
     "comment": "Shopping mall",
     "place_id": "ChIJ02FpQ-YWHxURIei1XGc_o38",
