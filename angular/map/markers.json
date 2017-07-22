@@ -265,5 +265,14 @@
       "lng": 35.747304
     },
     "tags": ["restaurant", "café", "alcohol", "outdoor", "indoor", "great", "aure", "franzi"]
+  },
+  {
+    "title": "Malolo",
+    "comment": "Hawaiian food",
+    "position": {
+      "lat": 33.895527,
+      "lng": 35.516382
+    },
+    "tags": ["restaurant", "alcohol", "great", "indoor", "aure", "franzi"]
   }
 ]
