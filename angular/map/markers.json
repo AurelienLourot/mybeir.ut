@@ -55,6 +55,14 @@
     "tags": ["restaurant", "alcohol", "indoor", "outdoor", "good", "aure"]
   },
   {
+    "title": "Petit Café",
+    "position": {
+      "lat": 33.891403,
+      "lng": 35.471461
+    },
+    "tags": ["restaurant", "café", "indoor", "outdoor", "good", "other"]
+  },
+  {
     "title": "Rouché Rocks",
     "comment": "a.k.a Pigeon Rocks",
     "position": {
