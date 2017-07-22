@@ -106,5 +106,14 @@
       "lng": 35.520405
     },
     "tags": ["restaurant", "great", "indoor", "outdoor", "aure", "franzi"]
+  },
+  {
+    "title": "Meshmosh",
+    "comment": "Ho(s)tel's café",
+    "position": {
+      "lat": 33.894512,
+      "lng": 35.515484
+    },
+    "tags": ["café", "restaurant", "alcohol", "outdoor", "great", "indoor", "aure", "franzi"]
   }
 ]
