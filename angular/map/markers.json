@@ -80,5 +80,14 @@
       "lng": 35.470381
     },
     "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
+  },
+  {
+    "title": "Grenier à pain",
+    "comment": "Bakery with nice sandwiches",
+    "position": {
+      "lat": 33.895081,
+      "lng": 35.517014
+    },
+    "tags": ["restaurant", "great", "indoor", "aure", "franzi"]
   }
 ]
