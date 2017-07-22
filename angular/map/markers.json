@@ -211,5 +211,13 @@
       "lng": 35.506121
     },
     "tags": ["workplace", "internet", "indoor", "good", "other"]
+  },
+  {
+    "title": "Byblos",
+    "position": {
+      "lat": 34.121874,
+      "lng": 35.649718
+    },
+    "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
   }
 ]
