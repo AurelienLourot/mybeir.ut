@@ -63,6 +63,16 @@
     "tags": ["restaurant", "café", "indoor", "outdoor", "good", "other"]
   },
   {
+    "title": "Man'oucheh",
+    "ignore_errors": true,
+    "comment": "Lebanese pizzas to take away",
+    "position": {
+      "lat": 33.895064,
+      "lng": 35.516882
+    },
+    "tags": ["restaurant", "outdoor", "good", "aure"]
+  },
+  {
     "title": "Rouché Rocks",
     "comment": "a.k.a Pigeon Rocks",
     "position": {
