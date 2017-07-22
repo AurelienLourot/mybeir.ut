@@ -126,6 +126,17 @@
     "tags": ["café", "restaurant", "alcohol", "outdoor", "great", "indoor", "aure", "franzi"]
   },
   {
+    "title": "Zaitunay Bay",
+    "comment": "Yacht port with restaurants",
+    "place_id": "ChIJAQAAQOwWHxURpqxtyGu-AR8",
+    "ignore_errors": true,
+    "position": {
+      "lat": 33.9021,
+      "lng": 35.4978
+    },
+    "tags": ["sightseeing", "restaurant", "alcohol", "outdoor", "great", "aure", "franzi"]
+  },
+  {
     "title": "Nijmeh square",
     "comment": "Place de l'étoile, might be blocked by authorities",
     "position": {
