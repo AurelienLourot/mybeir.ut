@@ -307,5 +307,13 @@
       "lng": 35.516142
     },
     "tags": ["café", "outdoor", "good", "aure", "franzi"]
+  },
+  {
+    "title": "Haven for artists",
+    "position": {
+      "lat": 33.895982,
+      "lng": 35.531013
+    },
+    "tags": ["workplace", "indoor", "good", "other"]
   }
 ]
