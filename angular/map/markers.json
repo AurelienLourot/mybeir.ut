@@ -82,6 +82,14 @@
     "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
   },
   {
+    "title": "Pizzaria",
+    "position": {
+      "lat": 33.894941,
+      "lng": 35.517517
+    },
+    "tags": ["restaurant", "alcohol", "great", "outdoor", "indoor", "aure", "franzi"]
+  },
+  {
     "title": "Grenier à pain",
     "comment": "Bakery with nice sandwiches",
     "position": {
