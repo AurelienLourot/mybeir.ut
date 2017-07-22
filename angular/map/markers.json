@@ -124,5 +124,14 @@
       "lng": 35.515484
     },
     "tags": ["café", "restaurant", "alcohol", "outdoor", "great", "indoor", "aure", "franzi"]
+  },
+  {
+    "title": "Nijmeh square",
+    "comment": "Place de l'étoile, might be blocked by authorities",
+    "position": {
+      "lat": 33.896706,
+      "lng": 35.504559
+    },
+    "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
   }
 ]
