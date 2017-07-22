@@ -196,6 +196,14 @@
     "tags": ["restaurant", "alcohol", "internet", "outdoor", "great", "aure", "franzi"]
   },
   {
+    "title": "Batroun",
+    "position": {
+      "lat": 34.255003,
+      "lng": 35.655709
+    },
+    "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
+  },
+  {
     "title": "Digital District",
     "place_id": "ChIJkQVdiuEWHxURtgXwwO_0Sgg",
     "position": {
