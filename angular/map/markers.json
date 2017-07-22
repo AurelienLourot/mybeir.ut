@@ -267,6 +267,14 @@
     "tags": ["restaurant", "café", "alcohol", "outdoor", "indoor", "great", "aure", "franzi"]
   },
   {
+    "title": "Music Hall",
+    "position": {
+      "lat": 33.905826,
+      "lng": 35.505430
+    },
+    "tags": ["club", "good", "indoor", "other"]
+  },
+  {
     "title": "Malolo",
     "comment": "Hawaiian food",
     "position": {
@@ -274,5 +282,13 @@
       "lng": 35.516382
     },
     "tags": ["restaurant", "alcohol", "great", "indoor", "aure", "franzi"]
+  },
+  {
+    "title": "O1NE",
+    "position": {
+      "lat": 33.904027,
+      "lng": 35.504942
+    },
+    "tags": ["club", "good", "indoor", "other"]
   }
 ]
