@@ -300,6 +300,17 @@
     "tags": ["club", "good", "indoor", "other"]
   },
   {
+    "title": "The Gathering",
+    "_reason": "Otherwise it will match Antoine Bechara Moughanni:",
+    "place_id": "NONE",
+    "website": "https://www.zomato.com/beirut/the-gathering-gemmayze",
+    "position": {
+      "lat": 33.895901,
+      "lng": 35.515764
+    },
+    "tags": ["restaurant", "good", "indoor", "other"]
+  },
+  {
     "title": "Artlab",
     "comment": "Gallery",
     "position": {
@@ -324,5 +335,14 @@
       "lng": 35.524376
     },
     "tags": ["restaurant", "indoor", "good", "franzi"]
+  },
+  {
+    "title": "Mitsu-ya",
+    "comment": "Sushi",
+    "position": {
+      "lat": 33.894934,
+      "lng": 35.513127
+    },
+    "tags": ["restaurant", "other", "great", "indoor"]
   }
 ]
