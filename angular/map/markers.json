@@ -284,11 +284,28 @@
     "tags": ["restaurant", "alcohol", "great", "indoor", "aure", "franzi"]
   },
   {
+    "title": "Troika",
+    "position": {
+      "lat": 33.873752,
+      "lng": 35.515463
+    },
+    "tags": ["bar", "café", "outdoor", "indoor", "great", "aure", "franzi"]
+  },
+  {
     "title": "O1NE",
     "position": {
       "lat": 33.904027,
       "lng": 35.504942
     },
     "tags": ["club", "good", "indoor", "other"]
+  },
+  {
+    "title": "Artlab",
+    "comment": "Gallery",
+    "position": {
+      "lat": 33.894822,
+      "lng": 35.516142
+    },
+    "tags": ["café", "outdoor", "good", "aure", "franzi"]
   }
 ]
