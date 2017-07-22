@@ -183,5 +183,14 @@
       "lng": 35.498379
     },
     "tags": ["restaurant", "alcohol", "internet", "outdoor", "great", "aure", "franzi"]
+  },
+  {
+    "title": "Digital District",
+    "place_id": "ChIJkQVdiuEWHxURtgXwwO_0Sgg",
+    "position": {
+      "lat": 33.891670,
+      "lng": 35.506121
+    },
+    "tags": ["workplace", "internet", "indoor", "good", "other"]
   }
 ]
