@@ -133,5 +133,15 @@
       "lng": 35.504559
     },
     "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
+  },
+  {
+    "title": "Souks",
+    "comment": "Shopping mall",
+    "place_id": "ChIJ02FpQ-YWHxURIei1XGc_o38",
+    "position": {
+      "lat": 33.898695,
+      "lng": 35.503918
+    },
+    "tags": ["sightseeing", "café", "indoor", "outdoor", "good", "aure", "franzi"]
   }
 ]
