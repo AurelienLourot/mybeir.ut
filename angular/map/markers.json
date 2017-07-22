@@ -337,11 +337,29 @@
     "tags": ["restaurant", "indoor", "good", "franzi"]
   },
   {
+    "title": "Kalei",
+    "comment": "Hipster café with garden",
+    "position": {
+      "lat": 33.896184,
+      "lng": 35.528809
+    },
+    "tags": ["café", "other", "good", "outdoor", "indoor"]
+  },
+  {
     "title": "Mitsu-ya",
     "comment": "Sushi",
     "position": {
       "lat": 33.894934,
       "lng": 35.513127
+    },
+    "tags": ["restaurant", "other", "great", "indoor"]
+  },
+  {
+    "title": "móTTO",
+    "comment": "Also to take away",
+    "position": {
+      "lat": 33.897010,
+      "lng": 35.524388
     },
     "tags": ["restaurant", "other", "great", "indoor"]
   }
