@@ -55,6 +55,15 @@
     "tags": ["restaurant", "alcohol", "indoor", "outdoor", "good", "aure"]
   },
   {
+    "title": "T-Marbouta",
+    "comment": "Lebanese food",
+    "position": {
+      "lat": 33.895729,
+      "lng": 35.483048
+    },
+    "tags": ["restaurant", "café", "other", "indoor", "great"]
+  },
+  {
     "title": "Petit Café",
     "position": {
       "lat": 33.891403,
@@ -290,6 +299,14 @@
       "lng": 35.515463
     },
     "tags": ["bar", "café", "outdoor", "indoor", "great", "aure", "franzi"]
+  },
+  {
+    "title": "Ales & Tales",
+    "position": {
+      "lat": 33.896746,
+      "lng": 35.478548
+    },
+    "tags": ["bar", "other", "indoor", "good"]
   },
   {
     "title": "O1NE",
