@@ -309,10 +309,27 @@
     "tags": ["bar", "other", "indoor", "good"]
   },
   {
+    "title": "Li Beirut",
+    "comment": "Lebanese food",
+    "position": {
+      "lat": 33.896701,
+      "lng": 35.478863
+    },
+    "tags": ["bar", "restaurant", "great", "indoor", "aure", "franzi"]
+  },
+  {
     "title": "O1NE",
     "position": {
       "lat": 33.904027,
       "lng": 35.504942
+    },
+    "tags": ["club", "other", "good", "indoor"]
+  },
+  {
+    "title": "B-018",
+    "position": {
+      "lat": 33.898580,
+      "lng": 35.534190
     },
     "tags": ["club", "other", "good", "indoor"]
   },
