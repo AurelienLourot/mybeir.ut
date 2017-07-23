@@ -412,5 +412,14 @@
       "lng": 35.524388
     },
     "tags": ["restaurant", "other", "great", "indoor"]
+  },
+  {
+    "title": "Meat the fish",
+    "comment": "A bit expensive",
+    "position": {
+      "lat": 33.893883,
+      "lng": 35.507668
+    },
+    "tags": ["restaurant", "alcohol", "outdoor", "great", "indoor", "aure", "franzi"]
   }
 ]
