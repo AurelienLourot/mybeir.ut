@@ -72,6 +72,14 @@
     "tags": ["restaurant", "café", "other", "indoor", "great"]
   },
   {
+    "title": "Riwaq",
+    "position": {
+      "lat": 33.895265,
+      "lng": 35.531705
+    },
+    "tags": ["café", "other", "indoor", "good"]
+  },
+  {
     "title": "Petit Café",
     "position": {
       "lat": 33.891403,
