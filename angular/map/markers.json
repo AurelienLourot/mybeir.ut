@@ -26,6 +26,14 @@
     "tags": ["bar", "alcohol", "indoor", "good", "aure", "franzi"]
   },
   {
+    "title": "Torino",
+    "position": {
+      "lat": 33.894904,
+      "lng": 35.512861
+    },
+    "tags": ["bar", "other", "great", "indoor"]
+  },
+  {
     "title": "Orso Bianco",
     "comment": "Ice cream to take away",
     "position": {
