@@ -421,5 +421,14 @@
       "lng": 35.507668
     },
     "tags": ["restaurant", "alcohol", "outdoor", "great", "indoor", "aure", "franzi"]
+  },
+  {
+    "title": "Matchbox Park",
+    "comment": "Street food area",
+    "position": {
+      "lat": 33.895849,
+      "lng": 35.516220
+    },
+    "tags": ["restaurant", "outdoor", "good", "other"]
   }
 ]
