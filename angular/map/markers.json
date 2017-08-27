@@ -439,5 +439,14 @@
       "lng": 35.525586
     },
     "tags": ["restaurant", "alcohol", "franzi", "indoor", "outdoor", "great"]
+  },
+  {
+    "title": "Beit ed-Dine",
+    "comment": "Palace",
+    "position": {
+      "lat": 33.695262,
+      "lng": 35.580331
+    },
+    "tags": ["sightseeing", "outdoor", "indoor", "great", "aure", "franzi"]
   }
 ]
