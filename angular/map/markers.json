@@ -448,5 +448,14 @@
       "lng": 35.580331
     },
     "tags": ["sightseeing", "outdoor", "indoor", "great", "aure", "franzi"]
+  },
+  {
+    "title": "Mathieu",
+    "comment": "Crêpes and galettes, also to take away",
+    "position": {
+      "lat": 33.895997,
+      "lng": 35.523334
+    },
+    "tags": ["restaurant", "great", "indoor", "outdoor", "aure", "franzi"]
   }
 ]
