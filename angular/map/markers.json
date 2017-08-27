@@ -457,5 +457,14 @@
       "lng": 35.523334
     },
     "tags": ["restaurant", "great", "indoor", "outdoor", "aure", "franzi"]
+  },
+  {
+    "title": "L'Osteria",
+    "comment": "Italian food",
+    "position": {
+      "lat": 33.896463,
+      "lng": 35.524645
+    },
+    "tags": ["restaurant", "alcohol", "other", "indoor", "great"]
   }
 ]
