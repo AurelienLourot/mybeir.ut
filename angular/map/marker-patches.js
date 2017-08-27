@@ -14,6 +14,7 @@ function patch(markers) {
   setPlaceId('londonbar', 'ChIJT0k2-VgWHxURzHHHNL6iqe4');
   setPlaceId('mayrig', 'ChIJkXEyffcWHxURgxjedHI0SUA');
   setPlaceId('naturalbridge', 'ChIJyVZhcZ9OHxURJjMW5igiIyk');
+  setPlaceId('pooldetat', 'ChIJabXezCkXHxURUr0lhk5rZug');
   setPlaceId('seza', 'ChIJj6eAWCEXHxURPpItJi93dpg');
   setPlaceId('trainstation', 'ChIJJ-KcBlwWHxURSrEbgjVs658');
   ignoreErrors('trainstation');
