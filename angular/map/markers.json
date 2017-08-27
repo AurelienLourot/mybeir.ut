@@ -466,5 +466,17 @@
       "lng": 35.524645
     },
     "tags": ["restaurant", "alcohol", "other", "indoor", "great"]
+  },
+  {
+    "title": "Broumana",
+    "comment": "Town in the mountains with view on Beirut and the sea",
+    "place_id": "ChIJq8ZXnSQ8HxURnbbsphYBzFQ",
+    "ignore_errors": true,
+    "website": "https://en.wikipedia.org/wiki/Brummana",
+    "position": {
+      "lat": 33.881294,
+      "lng": 35.627333
+    },
+    "tags": ["sightseeing", "other", "restaurant", "outdoor", "indoor", "good"]
   }
 ]
