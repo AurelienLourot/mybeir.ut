@@ -430,5 +430,14 @@
       "lng": 35.516220
     },
     "tags": ["restaurant", "outdoor", "good", "other"]
+  },
+  {
+    "title": "El Denye Hek",
+    "comment": "Lebanese fusion",
+    "position": {
+      "lat": 33.896922,
+      "lng": 35.525586
+    },
+    "tags": ["restaurant", "alcohol", "franzi", "indoor", "outdoor", "great"]
   }
 ]
