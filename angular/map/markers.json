@@ -478,5 +478,14 @@
       "lng": 35.627333
     },
     "tags": ["sightseeing", "other", "restaurant", "outdoor", "indoor", "good"]
+  },
+  {
+    "title": "Anfeh",
+    "place_id": "NONE",
+    "position": {
+      "lat": 34.360957,
+      "lng": 35.727308
+    },
+    "tags": ["sightseeing", "other", "outdoor", "great"]
   }
 ]
