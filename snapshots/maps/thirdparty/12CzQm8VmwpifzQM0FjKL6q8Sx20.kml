@@ -591,6 +591,36 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Bab Sharqi</name>
+        <description>#restaurant #indoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5129177,33.8895776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liza</name>
+        <description>#restaurant #outdoor #indoor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5124162,33.8891167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[L'Atelier Du Miel Garden café]]></name>
+        <description>#café #outdoor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5245609,33.8961432,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
