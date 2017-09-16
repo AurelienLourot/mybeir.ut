@@ -487,5 +487,14 @@
       "lng": 35.727308
     },
     "tags": ["sightseeing", "other", "outdoor", "great"]
+  },
+  {
+    "title": "Memory Lane",
+    "comment": "Burgers",
+    "position": {
+      "lat": 33.896470,
+      "lng": 35.524372
+    },
+    "tags": ["restaurant", "other", "indoor", "good"]
   }
 ]
