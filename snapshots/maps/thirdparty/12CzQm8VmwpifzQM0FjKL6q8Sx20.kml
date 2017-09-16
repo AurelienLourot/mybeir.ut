@@ -642,6 +642,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Massaya</name>
+        <description>#restaurant #bar #outdoor #indoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.8177029,33.9987058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Adonis Temple</name>
         <description>#sightseeing #outdoor</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
@@ -671,6 +681,29 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Ksara</name>
+        <description>#restaurant #outdoor #indoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.8926126,33.826457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massaya Vineyard</name>
+        <description>#restaurant #outdoor #indoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.8867121000001,33.790744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
     </Folder>
   </Document>
 </kml>

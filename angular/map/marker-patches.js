@@ -11,9 +11,11 @@ function patch(markers) {
   setPlaceId('faqra', 'ChIJ-ciGVqJOHxURNkHLLzXV7p8');
   setPlaceId('jammal', 'ChIJ-YEAENJYHxUR-e4EVMcfJpo');
   setPlaceId('kahwetleila', 'ChIJ84X1_PoWHxURYD7ooECcnvA');
+  setPlaceId('ksara', 'ChIJF0VSOeo0HxURar1sh_kxrxY');
   setPlaceId('lazybbeach', 'ChIJ6XMwtx3jHhUR4rFiK5R3AS4');
   setWebsite('lockstock', 'https://www.facebook.com/LockStockLebanon/');
   setPlaceId('londonbar', 'ChIJT0k2-VgWHxURzHHHNL6iqe4');
+  setPlaceId('massayavineyard', 'ChIJX2xZy2gzHxURqzziqWg84mY');
   setPlaceId('mayrig', 'ChIJkXEyffcWHxURgxjedHI0SUA');
   setPlaceId('naturalbridge', 'ChIJyVZhcZ9OHxURJjMW5igiIyk');
   setPlaceId('pooldetat', 'ChIJabXezCkXHxURUr0lhk5rZug');
