@@ -6,7 +6,6 @@ define({
 
 // Patches the provided dictionary of instances of googlemap.Marker.
 function patch(markers) {
-  setPlaceId('afqabridge', 'ChIJo7Ols-BSHxUR0CyMVzLHVfc');
   setPlaceId('emnazih', 'ChIJmf6F__kWHxUR6wQO2krgwgI');
   setPlaceId('faqra', 'ChIJ-ciGVqJOHxURNkHLLzXV7p8');
   setPlaceId('jammal', 'ChIJ-YEAENJYHxUR-e4EVMcfJpo');

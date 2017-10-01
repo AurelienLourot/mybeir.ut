@@ -652,32 +652,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Adonis Temple</name>
-        <description>#sightseeing #outdoor</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <Point>
-          <coordinates>
-            35.8909186999999,34.0675431,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Afqa Waterfall</name>
         <description>#sightseeing #outdoor</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
             35.8919172,34.0679189,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Afqa Bridge</name>
-        <description>#sightseeing #outdoor</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <Point>
-          <coordinates>
-            35.8925097,34.067918,0
           </coordinates>
         </Point>
       </Placemark>
