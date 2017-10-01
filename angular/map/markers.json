@@ -43,6 +43,16 @@
     "tags": ["icecream", "outdoor", "indoor", "great", "aure", "franzi"]
   },
   {
+    "title": "Manara Palace",
+    "place_id": "ChIJPYJPRtYQHxURiFhLE3_Ogjc",
+    "ignore_errors": true,
+    "position": {
+      "lat": 33.900135,
+      "lng": 35.470227
+    },
+    "tags": ["icecream", "café", "other", "indoor", "good"]
+  },
+  {
     "title": "Al Rifai",
     "ignore_errors": true,
     "website": "https://www.zomato.com/beirut/al-rifai-juice-manara",
@@ -70,6 +80,15 @@
       "lng": 35.483048
     },
     "tags": ["restaurant", "café", "other", "indoor", "great"]
+  },
+  {
+    "title": "Taqueria del Jefe",
+    "comment": "Mexican food",
+    "position": {
+      "lat": 33.895730,
+      "lng": 35.518890
+    },
+    "tags": ["restaurant", "bar", "alcohol", "great", "outdoor", "indoor", "aure", "franzi"]
   },
   {
     "title": "Riwaq",
@@ -317,6 +336,15 @@
     "tags": ["bar", "café", "outdoor", "indoor", "great", "aure", "franzi"]
   },
   {
+    "title": "Junkyard",
+    "place_id": "ChIJBdEieVwWHxURRiRR7FT_lKs",
+    "position": {
+      "lat": 33.896921,
+      "lng": 35.528569
+    },
+    "tags": ["bar", "alcohol", "other", "outdoor", "great"]
+  },
+  {
     "title": "Ales & Tales",
     "position": {
       "lat": 33.896746,
@@ -332,6 +360,15 @@
       "lng": 35.478863
     },
     "tags": ["bar", "restaurant", "great", "indoor", "aure", "franzi"]
+  },
+  {
+    "title": "London Bar Hamra",
+    "place_id": "ChIJ24Wt5ioXHxUR6-2lKR6TVGI",
+    "position": {
+      "lat": 33.896738,
+      "lng": 35.478502
+    },
+    "tags": ["bar", "alcohol", "good", "indoor", "outdoor", "aure"]
   },
   {
     "title": "O1NE",
@@ -350,6 +387,14 @@
     "tags": ["club", "other", "good", "indoor"]
   },
   {
+    "title": "Yukunkun",
+    "position": {
+      "lat": 33.894250,
+      "lng": 35.511537
+    },
+    "tags": ["club", "other", "good", "indoor"]
+  },
+  {
     "title": "The Gathering",
     "_reason": "Otherwise it will match Antoine Bechara Moughanni:",
     "place_id": "NONE",
@@ -359,6 +404,14 @@
       "lng": 35.515764
     },
     "tags": ["restaurant", "good", "indoor", "other"]
+  },
+  {
+    "title": "AHM",
+    "position": {
+      "lat": 33.906427,
+      "lng": 35.506624
+    },
+    "tags": ["club", "great", "indoor", "aure", "franzi"]
   },
   {
     "title": "Artlab",
@@ -480,6 +533,15 @@
     "tags": ["sightseeing", "other", "restaurant", "outdoor", "indoor", "good"]
   },
   {
+    "title": "Mazzat",
+    "comment": "Kebab place",
+    "position": {
+      "lat": 33.869661,
+      "lng": 35.542341
+    },
+    "tags": ["restaurant", "great", "outdoor", "indoor", "aure", "franzi"]
+  },
+  {
     "title": "Anfeh",
     "place_id": "NONE",
     "position": {
@@ -489,6 +551,15 @@
     "tags": ["sightseeing", "other", "outdoor", "great"]
   },
   {
+    "title": "Cedar forest",
+    "place_id": "NONE",
+    "position": {
+      "lat": 33.675218,
+      "lng": 35.691884
+    },
+    "tags": ["sightseeing", "outdoor", "good", "aure", "franzi"]
+  },
+  {
     "title": "Memory Lane",
     "comment": "Burgers",
     "position": {
@@ -496,5 +567,14 @@
       "lng": 35.524372
     },
     "tags": ["restaurant", "other", "indoor", "good"]
+  },
+  {
+    "title": "View on Bekaa",
+    "place_id": "NONE",
+    "position": {
+      "lat": 33.664540,
+      "lng": 35.711749
+    },
+    "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
   }
 ]
