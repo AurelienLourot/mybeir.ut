@@ -196,7 +196,16 @@
       "lat": 33.894934,
       "lng": 35.512265
     },
-    "tags": ["restaurant", "great", "indoor", "franzi"]
+    "tags": ["restaurant", "alcohol", "great", "indoor", "franzi"]
+  },
+  {
+    "title": "Zaartar w Zeit in ABC mall",
+    "comment": "Lebanese food",
+    "position": {
+      "lat": 33.889096,
+      "lng": 35.520118
+    },
+    "tags": ["restaurant", "alcohol", "great", "indoor", "franzi", "aure"]
   },
   {
     "title": "Souks",
