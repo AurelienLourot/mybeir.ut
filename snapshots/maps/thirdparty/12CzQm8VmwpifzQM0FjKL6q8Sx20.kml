@@ -741,6 +741,66 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Domaine al-maaqr</name>
+        <description>#restaurant #outdoor #indoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.8828708,33.8554065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tawlet Ammiq</name>
+        <description>#restaurant #outdoor #indoor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.7610824,33.7127748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hadouane</name>
+        <description>#restaurant #indoor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.8123386,33.8041177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ferdinand</name>
+        <description>#bar #restaurant #indoor #outdoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.478157,33.896467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Attic</name>
+        <description>#bar #outdoor #indoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5161025,33.8738827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Molo</name>
+        <description>#bar #outdoor #indoor #alcohol</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.5153826000001,33.8736638,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Untitled layer</name>
