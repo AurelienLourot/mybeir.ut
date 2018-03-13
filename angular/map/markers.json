@@ -144,6 +144,7 @@
   },
   {
     "title": "Sandwich w Noss",
+    "comment": "Lebanese fast food",
     "place_id": "ChIJyQSxjfcWHxURdnc9s5I6SWg",
     "position": {
       "lat": 33.895483,
@@ -351,7 +352,7 @@
       "lat": 33.896921,
       "lng": 35.528569
     },
-    "tags": ["bar", "alcohol", "other", "outdoor", "great"]
+    "tags": ["bar", "restaurant", "alcohol", "great", "outdoor", "aure", "franzi"]
   },
   {
     "title": "Ales & Tales",
