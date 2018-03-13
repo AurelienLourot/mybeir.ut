@@ -586,5 +586,138 @@
       "lng": 35.711749
     },
     "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
+  },
+  {
+    "title": "Malak Al Tawouk",
+    "comment": "Lebanese fast food",
+    "position": {
+      "lat": 33.896169,
+      "lng": 35.478959
+    },
+    "tags": ["restaurant", "other", "great", "indoor"]
+  },
+  {
+    "title": "Pizza guys",
+    "comment": "Pizzas to take away",
+    "position": {
+      "lat": 33.895105,
+      "lng": 35.515045
+    },
+    "tags": ["restaurant", "outdoor", "good", "aure"]
+  },
+  {
+    "title": "Beit Halab",
+    "comment": "Syrian food",
+    "place_id": "ChIJRbtHr9AWHxURsTE6YlKpbhw",
+    "position": {
+      "lat": 33.901123,
+      "lng": 35.488626
+    },
+    "tags": ["restaurant", "great", "indoor", "aure", "franzi"]
+  },
+  {
+    "title": "L'Os en ville",
+    "comment": "French and Lebanese food",
+    "position": {
+      "lat": 33.895213,
+      "lng": 35.519073
+    },
+    "tags": ["restaurant", "alcohol", "great", "indoor", "outdoor", "aure", "franzi"]
+  },
+  {
+    "title": "Abou Hassan",
+    "comment": "Lebanese food",
+    "position": {
+      "lat": 33.894656,
+      "lng": 35.473614
+    },
+    "tags": ["restaurant", "alcohol", "good", "indoor", "aure", "franzi"]
+  },
+  {
+    "title": "Couqley",
+    "comment": "French food",
+    "position": {
+      "lat": 33.894783,
+      "lng": 35.518249
+    },
+    "tags": ["restaurant", "alcohol", "good", "indoor", "outdoor", "aure", "franzi"]
+  },
+  {
+    "title": "Pierre & friends",
+    "comment": "Restaurant at the sea",
+    "position": {
+      "lat": 34.212475,
+      "lng": 35.649261
+    },
+    "tags": ["restaurant", "alcohol", "great", "indoor", "outdoor", "aure", "franzi"]
+  },
+  {
+    "title": "Onno",
+    "comment": "Armenian and Lebanese food",
+    "place_id": "ChIJZ1cItAgXHxURDv3m9faOdig",
+    "position": {
+      "lat": 33.874929,
+      "lng": 35.516577
+    },
+    "tags": ["restaurant", "alcohol", "great", "indoor", "outdoor", "aure", "franzi"]
+  },
+  {
+    "title": "Casa di Pizza",
+    "position": {
+      "lat": 34.000792,
+      "lng": 35.836609
+    },
+    "tags": ["restaurant", "alcohol", "great", "indoor", "aure", "franzi"]
+  },
+  {
+    "title": "Urban",
+    "position": {
+      "lat": 33.997106,
+      "lng": 35.820899
+    },
+    "tags": ["restaurant", "alcohol", "good", "indoor", "aure", "franzi"]
+  },
+  {
+    "title": "Montagnou",
+    "comment": "Fondue, raclette, etc.",
+    "position": {
+      "lat": 33.993423,
+      "lng": 35.831989
+    },
+    "tags": ["restaurant", "alcohol", "great", "indoor", "aure", "franzi"]
+  },
+  {
+    "title": "Iris",
+    "comment": "Rooftop",
+    "position": {
+      "lat": 33.897886,
+      "lng": 35.507143
+    },
+    "tags": ["bar", "alcohol", "other", "outdoor", "good"]
+  },
+  {
+    "title": "Abou Elie",
+    "comment": "Communist/Revolutionary-styled bar",
+    "position": {
+      "lat": 33.895662,
+      "lng": 35.473781
+    },
+    "tags": ["bar", "alcohol", "great", "indoor", "aure", "franzi"]
+  },
+  {
+    "title": "Dragonfly",
+    "position": {
+      "lat": 33.894906,
+      "lng": 35.512986
+    },
+    "tags": ["bar", "alcohol", "great", "indoor", "aure", "franzi"]
+  },
+  {
+    "title": "Odin",
+    "position": {
+      "lat": 33.993936,
+      "lng": 35.838344
+    },
+    "tags": ["bar", "restaurant", "alcohol", "good", "indoor", "aure", "franzi"]
   }
 ]
