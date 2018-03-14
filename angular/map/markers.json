@@ -718,5 +718,101 @@
       "lng": 35.511282
     },
     "tags": ["café", "alcohol", "great", "indoor", "aure", "franzi"]
+  },
+  {
+    "title": "Hanoi",
+    "comment": "Vietnamese food",
+    "ignore_errors": true,
+    "position": {
+      "lat": 33.894725,
+      "lng": 35.519316
+    },
+    "tags": ["restaurant", "alcohol", "indoor", "good", "aure"]
+  },
+  {
+    "title": "Cantina sociale",
+    "position": {
+      "lat": 33.886784,
+      "lng": 35.518040
+    },
+    "tags": ["restaurant", "bar", "alcohol", "great", "indoor", "aure", "franzi"]
+  },
+  {
+    "title": "Acoté",
+    "comment": "French and Lebanese food",
+    "position": {
+      "lat": 33.897215,
+      "lng": 35.524536
+    },
+    "tags": ["restaurant", "alcohol", "outdoor", "indoor", "good", "aure", "franzi"]
+  },
+  {
+    "title": "Sushi d'Acoté",
+    "position": {
+      "lat": 33.897269,
+      "lng": 35.524530
+    },
+    "tags": ["restaurant", "alcohol", "other", "outdoor", "indoor", "good"]
+  },
+  {
+    "title": "Prune",
+    "position": {
+      "lat": 33.897318,
+      "lng": 35.524550
+    },
+    "tags": ["restaurant", "alcohol", "other", "indoor", "good"]
+  },
+  {
+    "title": "Tavolina",
+    "comment": "Italian food",
+    "position": {
+      "lat": 33.897119,
+      "lng": 35.524189
+    },
+    "tags": ["restaurant", "other", "indoor", "good"]
+  },
+  {
+    "title": "Meats & Bread",
+    "position": {
+      "lat": 33.894960,
+      "lng": 35.517646
+    },
+    "tags": ["restaurant", "other", "indoor", "good"]
+  },
+  {
+    "title": "Jalset Alerzal",
+    "comment": "Lebanese food",
+    "position": {
+      "lat": 34.015568,
+      "lng": 35.802912
+    },
+    "tags": ["restaurant", "alcohol", "indoor", "good", "aure", "franzi"]
+  },
+  {
+    "title": "Don eatery",
+    "comment": "Asian food",
+    "position": {
+      "lat": 33.891726,
+      "lng": 35.514295
+    },
+    "tags": ["restaurant", "alcohol", "great", "indoor", "outdoor", "aure", "franzi"]
+  },
+  {
+    "title": "Beirut street food",
+    "comment": "Lebanese food",
+    "place_id": "ChIJJVaNlOQWHxUR1_XzWbzDo7E",
+    "position": {
+      "lat": 33.894975,
+      "lng": 35.509529
+    },
+    "tags": ["restaurant", "alcohol", "indoor", "good", "aure", "franzi"]
+  },
+  {
+    "title": "Sushi Burrito",
+    "position": {
+      "lat": 33.904977,
+      "lng": 35.574852
+    },
+    "tags": ["restaurant", "indoor", "good", "aure", "franzi"]
   }
 ]
