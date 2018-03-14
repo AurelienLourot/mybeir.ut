@@ -63,7 +63,7 @@
       </Placemark>
       <Placemark>
         <name>Internazionale</name>
-        <description>#bar #indoor #alcohol</description>
+        <description>#bar #alcohol #indoor #outdoor #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -233,11 +233,11 @@
       </Placemark>
       <Placemark>
         <name>Landmark of the Resistance (Hisbollah Museum)</name>
-        <description>#sightseeing #outdoor</description>
+        <description>#sightseeing #outdoor #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
-            35.5254904,33.4573284,0
+            35.5256513,33.4563706,0
           </coordinates>
         </Point>
       </Placemark>
@@ -362,8 +362,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Oliver's Kitchen]]></name>
-        <description>#restaurant #café #indoor #alcohol #internet #aure</description>
+        <name><![CDATA[Aaliya's books]]></name>
+        <description>#restaurant #café #indoor #alcohol #internet #workplace #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -643,7 +643,7 @@
       </Placemark>
       <Placemark>
         <name>Massaya</name>
-        <description>#restaurant #bar #outdoor #indoor #alcohol</description>
+        <description>#restaurant #bar #café #alcohol #indoor #outdoor #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>

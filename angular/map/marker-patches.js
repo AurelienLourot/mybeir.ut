@@ -9,6 +9,7 @@ function patch(markers) {
   setPlaceId('emnazih', 'ChIJmf6F__kWHxUR6wQO2krgwgI');
   setPlaceId('faqra', 'ChIJ-ciGVqJOHxURNkHLLzXV7p8');
   setPlaceId('jammal', 'ChIJ-YEAENJYHxUR-e4EVMcfJpo');
+  setPlaceId('internazionale', 'ChIJV0PjGFkWHxURMy7Ey_ObHYM');
   setPlaceId('kahwetleila', 'ChIJ84X1_PoWHxURYD7ooECcnvA');
   setPlaceId('ksara', 'ChIJF0VSOeo0HxURar1sh_kxrxY');
   setPlaceId('lazybbeach', 'ChIJ6XMwtx3jHhUR4rFiK5R3AS4');

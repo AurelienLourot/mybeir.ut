@@ -79,7 +79,7 @@
       "lat": 33.895729,
       "lng": 35.483048
     },
-    "tags": ["restaurant", "café", "other", "indoor", "great"]
+    "tags": ["restaurant", "café", "great", "indoor", "outdoor", "aure", "franzi"]
   },
   {
     "title": "Taqueria del Jefe",
@@ -96,7 +96,7 @@
       "lat": 33.895265,
       "lng": 35.531705
     },
-    "tags": ["café", "other", "indoor", "good"]
+    "tags": ["café", "bar", "alcohol", "great", "indoor", "aure"]
   },
   {
     "title": "Petit Café",
