@@ -719,5 +719,22 @@
       "lng": 35.838344
     },
     "tags": ["bar", "restaurant", "alcohol", "good", "indoor", "aure", "franzi"]
+  },
+  {
+    "title": "Sip",
+    "position": {
+      "lat": 33.895135,
+      "lng": 35.515222
+    },
+    "tags": ["café", "workplace", "great", "indoor", "outdoor", "franzi"]
+  },
+  {
+    "title": "Joon on the moon",
+    "comment": "Café with board games",
+    "position": {
+      "lat": 33.893368,
+      "lng": 35.511282
+    },
+    "tags": ["café", "alcohol", "great", "indoor", "aure", "franzi"]
   }
 ]
