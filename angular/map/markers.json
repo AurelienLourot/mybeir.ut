@@ -1,14 +1,5 @@
 [
   {
-    "title": "Succo",
-    "comment": "Fresh juices to take away",
-    "position": {
-      "lat": 33.895653,
-      "lng": 35.516156
-    },
-    "tags": ["juicery", "outdoor", "indoor", "great", "aure", "franzi"]
-  },
-  {
     "title": "5 a day",
     "comment": "Restaurant, breakfast, fresh juices and salads to take away",
     "position": {
@@ -132,15 +123,6 @@
       "lng": 35.517517
     },
     "tags": ["restaurant", "alcohol", "great", "outdoor", "indoor", "aure", "franzi"]
-  },
-  {
-    "title": "Grenier à pain",
-    "comment": "Bakery with nice sandwiches",
-    "position": {
-      "lat": 33.895081,
-      "lng": 35.517014
-    },
-    "tags": ["restaurant", "great", "indoor", "aure", "franzi"]
   },
   {
     "title": "Sandwich w Noss",
