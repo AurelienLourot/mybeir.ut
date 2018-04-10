@@ -10,7 +10,8 @@ function patch(markers) {
   setPlaceId('faqra', 'ChIJ-ciGVqJOHxURNkHLLzXV7p8');
   setPlaceId('jammal', 'ChIJ-YEAENJYHxUR-e4EVMcfJpo');
   setPlaceId('internazionale', 'ChIJV0PjGFkWHxURMy7Ey_ObHYM');
-  setPlaceId('kahwetleila', 'ChIJ84X1_PoWHxURYD7ooECcnvA');
+  setPlaceId('darelgemmayze', 'ChIJ84X1_PoWHxURYD7ooECcnvA');
+  setComment('darelgemmayze', 'formerly Kahwet Leila');
   setPlaceId('ksara', 'ChIJF0VSOeo0HxURar1sh_kxrxY');
   setPlaceId('lazybbeach', 'ChIJ6XMwtx3jHhUR4rFiK5R3AS4');
   setWebsite('lockstock', 'https://www.facebook.com/LockStockLebanon/');

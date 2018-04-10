@@ -2,11 +2,12 @@
   {
     "title": "5 a day",
     "comment": "Restaurant, breakfast, fresh juices and salads to take away",
+    "place_id": "ChIJH4GWM1gWHxUR0N_TofHM2Wk",
     "position": {
       "lat": 33.894486,
       "lng": 35.524515
     },
-    "tags": ["juicery", "restaurant", "outdoor", "indoor", "great", "aure", "franzi"]
+    "tags": ["juicery", "café", "restaurant", "outdoor", "indoor", "great", "aure", "franzi"]
   },
   {
     "title": "Anise",
