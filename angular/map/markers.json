@@ -815,5 +815,23 @@
       "lng": 35.574852
     },
     "tags": ["restaurant", "indoor", "good", "aure", "franzi"]
+  },
+  {
+    "title": "Pin 'n Hole",
+    "comment": "Darts and billiard",
+    "position": {
+      "lat": 33.898138,
+      "lng": 35.525016
+    },
+    "tags": ["bar", "alcohol", "indoor", "good", "aure"]
+  },
+  {
+    "title": "Blue Note",
+    "comment": "Jazz bar",
+    "position": {
+      "lat": 33.898459,
+      "lng": 35.482558
+    },
+    "tags": ["bar", "café", "alcohol", "franzi", "indoor", "good"]
   }
 ]
