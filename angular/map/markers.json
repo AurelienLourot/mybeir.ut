@@ -833,5 +833,14 @@
       "lng": 35.482558
     },
     "tags": ["bar", "café", "alcohol", "franzi", "indoor", "good"]
+  },
+  {
+    "title": "Jezzine Waterfall",
+    "comment": "Waterfall and hiking to Niha",
+    "position": {
+      "lat": 33.545807,
+      "lng": 35.584216
+    },
+    "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
   }
 ]
