@@ -18,12 +18,12 @@
     "tags": ["bar", "alcohol", "indoor", "good", "aure", "franzi"]
   },
   {
-    "title": "Torino",
+    "title": "Torino Express",
     "position": {
       "lat": 33.894904,
       "lng": 35.512861
     },
-    "tags": ["bar", "other", "great", "indoor"]
+    "tags": ["bar", "great", "indoor", "outdoor", "aure"]
   },
   {
     "title": "Orso Bianco",
