@@ -404,7 +404,7 @@
       "lat": 33.906427,
       "lng": 35.506624
     },
-    "tags": ["club", "great", "indoor", "aure", "franzi"]
+    "tags": ["club", "alcohol", "great", "indoor", "aure", "franzi"]
   },
   {
     "title": "Artlab",
@@ -842,5 +842,14 @@
       "lng": 35.584216
     },
     "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
+  },
+  {
+    "title": "Gärten",
+    "comment": "Often German DJs",
+    "position": {
+      "lat": 33.903715,
+      "lng": 35.503922
+    },
+    "tags": ["club", "alcohol", "outdoor", "great", "aure"]
   }
 ]
