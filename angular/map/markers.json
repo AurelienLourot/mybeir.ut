@@ -99,14 +99,14 @@
     "tags": ["restaurant", "café", "indoor", "outdoor", "good", "other"]
   },
   {
-    "title": "Man'oucheh",
+    "title": "Na-Geo",
     "ignore_errors": true,
-    "comment": "Lebanese pizzas to take away",
+    "comment": "Man'oucheh (lebanese pizza) to take away",
     "position": {
       "lat": 33.895064,
       "lng": 35.516882
     },
-    "tags": ["restaurant", "outdoor", "good", "aure"]
+    "tags": ["restaurant", "outdoor", "great", "aure"]
   },
   {
     "title": "Rouché Rocks",
@@ -582,11 +582,12 @@
   {
     "title": "Pizza guys",
     "comment": "Pizzas to take away",
+    "place_id": "ChIJtRm6R_oWHxURP2Nl_KKnN5U",
     "position": {
       "lat": 33.895105,
       "lng": 35.515045
     },
-    "tags": ["restaurant", "outdoor", "good", "aure"]
+    "tags": ["restaurant", "outdoor", "great", "aure"]
   },
   {
     "title": "Beit Halab",
@@ -878,5 +879,58 @@
       "lng": 35.515460
     },
     "tags": ["café", "workplace", "outdoor", "other", "great"]
+  },
+  {
+    "title": "Varouj",
+    "comment": "Armenian food",
+    "position": {
+      "lat": 33.891232,
+      "lng": 35.537446
+    },
+    "tags": ["restaurant", "other", "indoor", "great"]
+  },
+  {
+    "title": "Relais de l'Entrecote",
+    "position": {
+      "lat": 33.888106,
+      "lng": 35.508466
+    },
+    "tags": ["restaurant", "other", "indoor", "great"]
+  },
+  {
+    "title": "Bergerac",
+    "position": {
+      "lat": 33.888963,
+      "lng": 35.517370
+    },
+    "tags": ["restaurant", "other", "indoor", "great"]
+  },
+  {
+    "title": "JC",
+    "ignore_errors": true,
+    "website": "https://www.facebook.com/jcwannes",
+    "position": {
+      "lat": 33.895015,
+      "lng": 35.517066
+    },
+    "tags": ["restaurant", "other", "indoor", "good"]
+  },
+  {
+    "title": "Boulevard Beirut",
+    "comment": "Lebanese seafood",
+    "position": {
+      "lat": 33.902137,
+      "lng": 35.491166
+    },
+    "tags": ["restaurant", "franzi", "indoor", "outdoor", "good"]
+  },
+  {
+    "title": "Artin",
+    "comment": "Lebanese food",
+    "position": {
+      "lat": 33.895077,
+      "lng": 35.513390
+    },
+    "tags": ["restaurant", "alcohol", "great", "indoor", "aure", "franzi"]
   }
 ]

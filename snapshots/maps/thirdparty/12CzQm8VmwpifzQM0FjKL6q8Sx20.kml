@@ -442,18 +442,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Frida</name>
-        <description>#restaurant #indoor #outdoor #alcohol #aure</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <Point>
-          <coordinates>
-            35.515413,33.890029,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Bread Republic</name>
-        <description>#bar #café #indoor #alcohol</description>
+        <description>#bar #café #restaurant #indoor #alcohol</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -483,7 +473,7 @@
       </Placemark>
       <Placemark>
         <name>Cyrano</name>
-        <description>#bar #café #outdoor #indoor #alcohol #aure</description>
+        <description>#bar #café #restaurant #outdoor #indoor #alcohol #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -603,7 +593,7 @@
       </Placemark>
       <Placemark>
         <name>Liza</name>
-        <description>#restaurant #outdoor #indoor</description>
+        <description>#restaurant #outdoor #indoor #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
