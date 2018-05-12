@@ -35,6 +35,15 @@
     "tags": ["icecream", "outdoor", "indoor", "great", "aure", "franzi"]
   },
   {
+    "title": "Hanna Mitri",
+    "comment": "Ice cream to take away",
+    "position": {
+      "lat": 33.891354,
+      "lng": 35.519155
+    },
+    "tags": ["icecream", "outdoor", "great", "aure"]
+  },
+  {
     "title": "Manara Palace",
     "place_id": "ChIJPYJPRtYQHxURiFhLE3_Ogjc",
     "ignore_errors": true,
