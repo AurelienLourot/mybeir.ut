@@ -318,7 +318,15 @@
       "lat": 33.905826,
       "lng": 35.505430
     },
-    "tags": ["club", "good", "indoor", "other"]
+    "tags": ["club", "other", "good", "indoor"]
+  },
+  {
+    "title": "HNGR",
+    "position": {
+      "lat": 33.895594,
+      "lng": 35.546448
+    },
+    "tags": ["club", "other", "good", "indoor"]
   },
   {
     "title": "Malolo",
