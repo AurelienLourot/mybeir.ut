@@ -996,5 +996,13 @@
       "lng": 35.515370
     },
     "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
+  },
+  {
+    "title": "Neighbors",
+    "position": {
+      "lat": 33.896963,
+      "lng": 35.478431
+    },
+    "tags": ["bar", "restaurant", "alcohol", "other", "indoor", "great"]
   }
 ]
