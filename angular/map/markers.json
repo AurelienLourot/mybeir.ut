@@ -487,8 +487,7 @@
     "tags": ["restaurant", "alcohol", "great", "indoor", "outdoor", "franzi", "aure"]
   },
   {
-    "title": "Beit ed-Dine",
-    "comment": "Palace",
+    "title": "Beiteddine Palace",
     "position": {
       "lat": 33.695262,
       "lng": 35.580331
@@ -932,5 +931,61 @@
       "lng": 35.513390
     },
     "tags": ["restaurant", "alcohol", "great", "indoor", "aure", "franzi"]
+  },
+  {
+    "title": "American University of Beirut",
+    "comment": "Campus",
+    "position": {
+      "lat": 33.900854,
+      "lng": 35.480776
+    },
+    "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
+  },
+  {
+    "title": "Monot Street",
+    "comment": "Alternative neighborhood",
+    "position": {
+      "lat": 33.890108,
+      "lng": 35.507823
+    },
+    "tags": ["sightseeing", "outdoor", "good", "aure", "franzi"]
+  },
+  {
+    "title": "Saifi Village",
+    "comment": "Fancy neighborhood",
+    "position": {
+      "lat": 33.894838,
+      "lng": 35.508398
+    },
+    "tags": ["sightseeing", "outdoor", "good", "aure", "franzi"]
+  },
+  {
+    "title": "Baalbeck Temple",
+    "place_id": "ChIJ_c4iZmKhGBURx0IOeDvWh3M",
+    "comment": "Greek and Roman ruins",
+    "position": {
+      "lat": 34.007385,
+      "lng": 36.205766
+    },
+    "tags": ["sightseeing", "outdoor", "good", "aure", "franzi"]
+  },
+  {
+    "title": "Tyre beach",
+    "place_id": "ChIJm0k235F9HhURHdh_wccqTns",
+    "comment": "Public beach",
+    "position": {
+      "lat": 33.257125,
+      "lng": 35.211200
+    },
+    "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
+  },
+  {
+    "title": "St. Nicolas stairs",
+    "place_id": "ChIJWSv4NPoWHxURk9009OqdvXY",
+    "position": {
+      "lat": 33.894383,
+      "lng": 35.515370
+    },
+    "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
   }
 ]
