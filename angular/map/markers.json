@@ -62,7 +62,7 @@
       "lat": 33.891643,
       "lng": 35.471275
     },
-    "tags": ["restaurant", "alcohol", "indoor", "outdoor", "good", "aure"]
+    "tags": ["restaurant", "alcohol", "café", "great", "indoor", "outdoor", "aure", "franzi"]
   },
   {
     "title": "T-Marbouta",
@@ -851,5 +851,32 @@
       "lng": 35.503922
     },
     "tags": ["club", "alcohol", "outdoor", "great", "aure"]
+  },
+  {
+    "title": "Pepe Fishing Club",
+    "comment": "Lebanese seafood",
+    "position": {
+      "lat": 34.121573,
+      "lng": 35.644060
+    },
+    "tags": ["restaurant", "café", "alcohol", "outdoor", "great", "aure", "franzi"]
+  },
+  {
+    "title": "Sursock resto",
+    "place_id": "ChIJvYbl2PsWHxURK-_u_zoecbY",
+    "comment": "Museum with restaurant/café",
+    "position": {
+      "lat": 33.893324,
+      "lng": 35.516409
+    },
+    "tags": ["restaurant", "café", "alcohol", "sightseeing", "outdoor", "indoor", "great", "aure", "franzi"]
+  },
+  {
+    "title": "Coin perdu",
+    "position": {
+      "lat": 33.893579,
+      "lng": 35.515460
+    },
+    "tags": ["café", "workplace", "outdoor", "other", "great"]
   }
 ]

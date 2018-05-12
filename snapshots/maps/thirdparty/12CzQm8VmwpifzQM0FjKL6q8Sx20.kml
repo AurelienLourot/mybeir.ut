@@ -53,7 +53,7 @@
       </Placemark>
       <Placemark>
         <name>Urbanista</name>
-        <description>#café #restaurant #bar #indoor #outdoor #internet #aure</description>
+        <description>#café #restaurant #bar #workplace #indoor #outdoor #internet #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -303,7 +303,7 @@
       </Placemark>
       <Placemark>
         <name>Al Falamanki</name>
-        <description>#restaurant #outdoor #indoor</description>
+        <description>#restaurant #café #alcohol #outdoor #indoor #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -333,7 +333,7 @@
       </Placemark>
       <Placemark>
         <name>Em Nazih</name>
-        <description>#restaurant #outdoor #indoor #alcohol #aure</description>
+        <description>#restaurant #café #outdoor #indoor #alcohol #aure</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
