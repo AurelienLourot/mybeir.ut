@@ -424,6 +424,14 @@
     "tags": ["club", "alcohol", "great", "indoor", "aure", "franzi"]
   },
   {
+    "title": "Back Door",
+    "position": {
+      "lat": 33.896196,
+      "lng": 35.524416
+    },
+    "tags": ["club", "alcohol", "other", "great", "indoor"]
+  },
+  {
     "title": "Artlab",
     "comment": "Gallery",
     "position": {
