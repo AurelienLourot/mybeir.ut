@@ -756,6 +756,16 @@
     "tags": ["restaurant", "alcohol", "indoor", "good", "aure"]
   },
   {
+    "title": "Jaï",
+    "comment": "Thai food",
+    "ignore_errors": true,
+    "position": {
+      "lat": 33.895804,
+      "lng": 35.492079
+    },
+    "tags": ["restaurant", "other", "outdoor", "indoor", "great"]
+  },
+  {
     "title": "Cantina sociale",
     "position": {
       "lat": 33.886784,
@@ -796,6 +806,15 @@
       "lng": 35.524189
     },
     "tags": ["restaurant", "other", "indoor", "good"]
+  },
+  {
+    "title": "Appetito",
+    "comment": "Italian food",
+    "position": {
+      "lat": 33.896556,
+      "lng": 35.478156
+    },
+    "tags": ["restaurant", "other", "great", "indoor"]
   },
   {
     "title": "Meats & Bread",
