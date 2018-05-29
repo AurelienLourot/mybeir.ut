@@ -1059,5 +1059,39 @@
       "lng": 35.490126
     },
     "tags": ["sightseeing", "outdoor", "great", "aure"]
+  },
+  {
+    "title": "Mashawish",
+    "comment": "Sandwiches",
+    "position": {
+      "lat": 33.897419,
+      "lng": 35.525060
+    },
+    "tags": ["restaurant", "alcohol", "great", "outdoor", "indoor", "aure"]
+  },
+  {
+    "title": "Breakfast barn",
+    "position": {
+      "lat": 33.892171,
+      "lng": 35.519442
+    },
+    "tags": ["restaurant", "indoor", "good", "aure"]
+  },
+  {
+    "title": "Bread Republic Hamra",
+    "position": {
+      "lat": 33.896047,
+      "lng": 35.480477
+    },
+    "tags": ["restaurant", "alcohol", "café", "great", "outdoor", "indoor", "aure"]
+  },
+  {
+    "title": "Appetito Gemmayzeh",
+    "comment": "Italian food",
+    "position": {
+      "lat": 33.895870,
+      "lng": 35.516418
+    },
+    "tags": ["restaurant", "alcohol", "other", "great", "indoor"]
   }
 ]
