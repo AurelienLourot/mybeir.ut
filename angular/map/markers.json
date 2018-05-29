@@ -1093,5 +1093,13 @@
       "lng": 35.516418
     },
     "tags": ["restaurant", "alcohol", "other", "great", "indoor"]
+  },
+  {
+    "title": "Metro Al Madina",
+    "position": {
+      "lat": 33.895335,
+      "lng": 35.485661
+    },
+    "tags": ["club", "other", "good", "indoor"]
   }
 ]
