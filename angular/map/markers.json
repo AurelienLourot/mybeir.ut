@@ -459,7 +459,7 @@
   },
   {
     "title": "Kalei",
-    "comment": "Hipster café with garden",
+    "comment": "Hipster café with garden and rooftop",
     "position": {
       "lat": 33.896184,
       "lng": 35.528809
@@ -814,7 +814,7 @@
       "lat": 33.896556,
       "lng": 35.478156
     },
-    "tags": ["restaurant", "other", "great", "indoor"]
+    "tags": ["restaurant", "alcohol", "great", "indoor", "outdoor", "aure"]
   },
   {
     "title": "Meats & Bread",
@@ -921,7 +921,7 @@
       "lat": 33.893579,
       "lng": 35.515460
     },
-    "tags": ["café", "workplace", "outdoor", "other", "great"]
+    "tags": ["café", "restaurant", "alcohol", "workplace", "outdoor", "great", "aure"]
   },
   {
     "title": "Varouj",
