@@ -1101,5 +1101,13 @@
       "lng": 35.485661
     },
     "tags": ["club", "other", "good", "indoor"]
+  },
+  {
+    "title": "Route 961",
+    "position": {
+      "lat": 33.896924,
+      "lng": 35.527280
+    },
+    "tags": ["bar", "alcohol", "outdoor", "great", "aure"]
   }
 ]
