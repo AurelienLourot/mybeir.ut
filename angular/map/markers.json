@@ -1039,5 +1039,25 @@
       "lng": 35.478431
     },
     "tags": ["bar", "restaurant", "alcohol", "other", "indoor", "great"]
+  },
+  {
+    "title": "Horsh",
+    "comment": "Largest public park/garden in Beirut",
+    "position": {
+      "lat": 33.871184,
+      "lng": 35.510381
+    },
+    "tags": ["sightseeing", "outdoor", "good", "aure", "franzi"]
+  },
+  {
+    "title": "Sanayeh park",
+    "comment": "Public park/garden",
+    "place_id": "ChIJn9URzCcXHxURll2oxbRQR1g",
+    "ignore_errors": true,
+    "position": {
+      "lat": 33.893856,
+      "lng": 35.490126
+    },
+    "tags": ["sightseeing", "outdoor", "great", "aure"]
   }
 ]
