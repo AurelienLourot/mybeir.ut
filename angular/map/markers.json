@@ -228,7 +228,7 @@
       "lat": 34.060498,
       "lng": 35.642425
     },
-    "tags": ["sightseeing", "outdoor", "good", "aure", "franzi"]
+    "tags": ["beach", "sightseeing", "outdoor", "good", "aure", "franzi"]
   },
   {
     "title": "Bartartine",
@@ -464,7 +464,8 @@
       "lat": 33.896184,
       "lng": 35.528809
     },
-    "tags": ["café", "restaurant", "alcohol", "workplace", "outdoor", "indoor", "great", "aure", "franzi"]
+    "tags": ["café", "restaurant", "alcohol", "workplace", "outdoor", "indoor", "great", "aure",
+             "franzi"]
   },
   {
     "title": "Mitsu-ya",
@@ -560,12 +561,14 @@
   },
   {
     "title": "Anfeh",
+    "comment": "Restaurants and cafés with access to the sea",
     "place_id": "NONE",
     "position": {
       "lat": 34.360957,
       "lng": 35.727308
     },
-    "tags": ["sightseeing", "other", "outdoor", "great"]
+    "tags": ["beach", "sightseeing", "alcohol", "restaurant", "café", "outdoor", "great", "aure",
+             "franzi"]
   },
   {
     "title": "Cedar forest",
@@ -913,7 +916,8 @@
       "lat": 33.893324,
       "lng": 35.516409
     },
-    "tags": ["restaurant", "café", "alcohol", "sightseeing", "outdoor", "indoor", "great", "aure", "franzi"]
+    "tags": ["restaurant", "café", "alcohol", "sightseeing", "outdoor", "indoor", "great", "aure",
+             "franzi"]
   },
   {
     "title": "Coin perdu",
@@ -1021,7 +1025,7 @@
       "lat": 33.257125,
       "lng": 35.211200
     },
-    "tags": ["sightseeing", "outdoor", "great", "aure", "franzi"]
+    "tags": ["beach", "sightseeing", "alcohol", "outdoor", "great", "aure", "franzi"]
   },
   {
     "title": "St. Nicolas stairs",
