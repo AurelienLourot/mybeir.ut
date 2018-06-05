@@ -1113,5 +1113,32 @@
       "lng": 35.527280
     },
     "tags": ["bar", "alcohol", "outdoor", "great", "aure"]
+  },
+  {
+    "title": "Bardo",
+    "position": {
+      "lat": 33.895846,
+      "lng": 35.492125
+    },
+    "tags": ["bar", "restaurant", "alcohol", "other", "great", "indoor"]
+  },
+  {
+    "title": "Olio & Soto",
+    "comment": "An Italian and a Japanese restaurants have merged",
+    "position": {
+      "lat": 33.896618,
+      "lng": 35.482340
+    },
+    "tags": ["restaurant", "alcohol", "other", "great", "indoor"]
+  },
+  {
+    "title": "Oyster",
+    "comment": "Seafood",
+    "place_id": "ChIJycIIabJYHxURLjm8_VCSgak",
+    "position": {
+      "lat": 34.257119,
+      "lng": 35.656885
+    },
+    "tags": ["restaurant", "other", "great", "outdoor"]
   }
 ]
