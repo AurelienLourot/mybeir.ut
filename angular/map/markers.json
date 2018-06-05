@@ -1140,5 +1140,13 @@
       "lng": 35.656885
     },
     "tags": ["restaurant", "other", "great", "outdoor"]
+  },
+  {
+    "title": "Projekt",
+    "position": {
+      "lat": 33.911140,
+      "lng": 35.579364
+    },
+    "tags": ["club", "alcohol", "other", "good", "indoor"]
   }
 ]
