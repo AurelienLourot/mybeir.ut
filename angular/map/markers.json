@@ -766,7 +766,7 @@
       "lat": 33.895804,
       "lng": 35.492079
     },
-    "tags": ["restaurant", "other", "outdoor", "indoor", "great"]
+    "tags": ["restaurant", "outdoor", "indoor", "great", "aure", "franzi"]
   },
   {
     "title": "Cantina sociale",
@@ -1096,7 +1096,7 @@
       "lat": 33.895870,
       "lng": 35.516418
     },
-    "tags": ["restaurant", "alcohol", "other", "great", "indoor"]
+    "tags": ["restaurant", "alcohol", "indoor", "good", "aure"]
   },
   {
     "title": "Metro Al Madina",
