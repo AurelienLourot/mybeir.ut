@@ -1148,5 +1148,13 @@
       "lng": 35.579364
     },
     "tags": ["club", "alcohol", "other", "good", "indoor"]
+  },
+  {
+    "title": "Das Küche",
+    "position": {
+      "lat": 33.896790,
+      "lng": 35.524369
+    },
+    "tags": ["restaurant", "bar", "alcohol", "outdoor", "great", "indoor", "aure", "franzi"]
   }
 ]
