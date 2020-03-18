@@ -1,6 +1,8 @@
+> **WARNING**: This project isn't maintained anymore.
+
 # mybeir.ut [![Build Status](https://travis-ci.org/AurelienLourot/mybeir.ut.svg?branch=master)](https://travis-ci.org/AurelienLourot/mybeir.ut)
 
-Source of https://beirut.myberl.in . An interactive map of bars, clubs and restaurants in Beirut.
+Interactive map of bars, clubs and restaurants in Beirut.
 
 Fork of [myberl.in](https://github.com/AurelienLourot/myberl.in).
 
@@ -96,7 +98,7 @@ $ npm run-script loadsite
 In addition to sending any error to Sentry, `npm` will terminate with a non-null exit value if:
 
 * the app's initialization times out, or
-* [beirut.myberl.in](https://beirut.myberl.in) is unreachable.
+* beirut.myberl.in is unreachable.
 
 ## Documentation
 
